@@ -1,0 +1,13 @@
+name = CAS User Service
+description = Provides a CAS user service.
+package = Services - services
+dependencies[] = services
+dependencies[] = user
+dependencies[] = cas
+core = 6.x
+; Information added by drupal.org packaging script on 2012-05-10
+version = "6.x-1.0"
+core = "6.x"
+project = "cas_services"
+datestamp = "1336671051"
+
